@@ -1,3 +1,10 @@
 # plane
 This is a simple game.
-Use the arrow keys and enter key to operate.
+
+Move:WASD or arrow keys
+
+Choose:Enter
+
+Shot:J
+
+Bomb:K
